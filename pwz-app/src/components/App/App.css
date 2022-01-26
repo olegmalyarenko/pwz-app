@@ -21,10 +21,12 @@ body{
   background: url("./3.jpg");
   background-repeat: no-repeat;
   background-position: 100%;
+  position: relative;
 }
 
 footer{
-  margin-top: 240px;
+ position: absolute;
+ bottom: 0;
   width: 100%;
   background: black;
   height: 58px;
