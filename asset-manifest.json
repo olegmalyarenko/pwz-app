@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pwz-app/static/css/main.a3459d3b.chunk.css",
+    "main.css": "/pwz-app/static/css/main.b657189d.chunk.css",
     "main.js": "/pwz-app/static/js/main.7c928cf6.chunk.js",
     "main.js.map": "/pwz-app/static/js/main.7c928cf6.chunk.js.map",
     "runtime-main.js": "/pwz-app/static/js/runtime-main.3ba624b3.js",
@@ -8,16 +8,16 @@
     "static/js/2.0d15f8e0.chunk.js": "/pwz-app/static/js/2.0d15f8e0.chunk.js",
     "static/js/2.0d15f8e0.chunk.js.map": "/pwz-app/static/js/2.0d15f8e0.chunk.js.map",
     "index.html": "/pwz-app/index.html",
-    "precache-manifest.7ddbaa88c9188650c1231d4d2aba2d73.js": "/pwz-app/precache-manifest.7ddbaa88c9188650c1231d4d2aba2d73.js",
+    "precache-manifest.4d8031e6b64d86ce9248da29d002f03e.js": "/pwz-app/precache-manifest.4d8031e6b64d86ce9248da29d002f03e.js",
     "service-worker.js": "/pwz-app/service-worker.js",
-    "static/css/main.a3459d3b.chunk.css.map": "/pwz-app/static/css/main.a3459d3b.chunk.css.map",
+    "static/css/main.b657189d.chunk.css.map": "/pwz-app/static/css/main.b657189d.chunk.css.map",
     "static/js/2.0d15f8e0.chunk.js.LICENSE.txt": "/pwz-app/static/js/2.0d15f8e0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/pwz-app/static/media/3.b9e65c66.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3ba624b3.js",
     "static/js/2.0d15f8e0.chunk.js",
-    "static/css/main.a3459d3b.chunk.css",
+    "static/css/main.b657189d.chunk.css",
     "static/js/main.7c928cf6.chunk.js"
   ]
 }

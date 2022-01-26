@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "606d722d364d5650cc8448175459030e",
+    "revision": "a254c75879eda537506897a6232ad114",
     "url": "/pwz-app/index.html"
   },
   {
-    "revision": "16ef7b1ef499549ffdf1",
-    "url": "/pwz-app/static/css/main.a3459d3b.chunk.css"
+    "revision": "135c81ffe5e16e630a56",
+    "url": "/pwz-app/static/css/main.b657189d.chunk.css"
   },
   {
     "revision": "64154221ce7bafc6c0b9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwz-app/static/js/2.0d15f8e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16ef7b1ef499549ffdf1",
+    "revision": "135c81ffe5e16e630a56",
     "url": "/pwz-app/static/js/main.7c928cf6.chunk.js"
   },
   {
